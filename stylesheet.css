@@ -46,7 +46,8 @@ body {
             float: left;
             width: 300px;
             height: 600px;
-			margin-left:180px;
+			margin-left:150px;
+			padding-right:50px;
 }
 
 
@@ -57,6 +58,7 @@ body {
 			background: #ffffff;
             width: auto;
             height: auto;
+			margin-left:40px;
 }
  
 #clear {
